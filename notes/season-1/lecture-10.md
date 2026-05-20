@@ -36,7 +36,7 @@ z(); // 7 900
 ```
 
 - Thus In simple words, we can say:
-  - **\*A closure is a function** that has access to its outer function scope even after the function has returned. Meaning, A closure can remember and access variables and arguments reference of its outer function even after the function has returned.\*
+  - **\*A closure is a function** that has access to its outer function scope even after the function has returned. Meaning, A closure can remember and access variables and arguments reference of its outer function even after the parent function has returned/finished executing or ended.\*
 
 <br>
 
