@@ -59,7 +59,7 @@ function () {
 
 ### Q: What is Named Function Expression?
 
-Same as Function Expression but function has a name instead of being anonymous.
+Same as Function Expression but function whose value is being assigned has a name instead of being anonymous.
 
 ```js
 var b = function xyz() {
