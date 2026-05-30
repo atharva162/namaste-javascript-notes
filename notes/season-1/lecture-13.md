@@ -82,7 +82,7 @@ b(arg1, arg2); // arguments - values passed inside function call
 
 ### Q: What is First Class Function aka First Class Citizens?
 
-The ability of functions to be used as values like they can be assigned to a variable, and that to be passed as arguements or can be returned from another function, this ability is only known as First Class Function
+The ability of functions to be used as values like they can be assigned to a variable, and that to be passed as arguments or can be returned from another function, this ability is only known as First Class Function
 We can pass functions inside a function as arguments and
 /or return a function(HOF). These ability are altogether known as First class function. It is programming concept available in some other languages too.
 
